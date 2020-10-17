@@ -38,7 +38,7 @@ if you use this repo in  your project don't forget to mention us as Contributer 
 # Made with ❤️by Vaibhav Hariramani
 #### About me
 
-I am a Machine Learning enthusiast, an Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
+I am a Machine Learning enthusiast, an Actions on Google Developer, Internet of things, Alexa Skills, and Image processing developer.
 I have a keen interest in Image processing and Andriod development.
 I am Currently studying at  Chandigarh University, Punjab.
 
